@@ -11,13 +11,13 @@
 
 {
   "lesscCommand": false,
-  "lessBaseDir": "./",
-  "outputDir": "./",
+  "lessBaseDir": "K:/librerie/htdocs_responsive/docs_common/fe/less/",
+  "outputDir": "auto",
   "outputFile": "", //[example.css] if left blank uses same name of .less file
-  "minify": true,
+  "minify": false,
   "minName": false,
-  "autoCompile": true,
+  "autoCompile": false,
   "showErrorWithWindow": true,
   "main_file": false,
-  "ignorePrefixedFiles": false
+  "ignorePrefixedFiles": true
 }
