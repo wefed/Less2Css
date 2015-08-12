@@ -19,5 +19,6 @@
   "autoCompile": false,
   "showErrorWithWindow": true,
   "main_file": false,
+  "createCssSourceMaps": true,
   "ignorePrefixedFiles": true
 }
